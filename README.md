@@ -19,5 +19,5 @@ Relay outputs
 Transistor outputs
 DIN-Rail mount
 
-Datasheet:   https://drive.google.com/open?id=1nCRXfDUjuygkdy_JPfdzvM26hO8DWZhP&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1mpVu4x_MTqQANEiJWP_RJlsA-AjneUXv&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-arita-mega-m6-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-arita-mega-m6-user-guide/
