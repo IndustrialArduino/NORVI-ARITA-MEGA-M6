@@ -405,7 +405,10 @@ void setup()
   TCCR1B |= (1 << CS12) | (1 << CS10);  
   // enable timer compare interrupt
   TIMSK1 |= (1 << OCIE1A);
-  }
+
+  
+
+}
 
 void loop() 
 {
